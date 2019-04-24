@@ -1,1 +1,13 @@
+Car service application scenario (v.1) :
+Ahmad had 2 cars , he suffering wash 2 cars and take both of them to car wash , he decide to open the google play and search for an easy way to wash his car , he found SHINEY application ( dev : Abdulghani , Baian ) he downloaded the app within 35 seconds , after he download the app , there was Welcome screen that include Register ( white color ) , Login ( red color ) and guest (red color ) , because he is new user he like to register and press register button , he filled his information ( First name , Last name , Email , Mobile Number , City ) and he agree to the application terms and privacy policy and he pressed Let’s go button ( red color ) , new page comes out to verificate his number , so every time he logged in with his number (NO USERNAME) ++usable app . After the message come to his mobile phone he write it in the box and confirm. A new page called Home comes to his screen , there is a menu with car services company , in the top up right there is filter he can choose ( Most rated , Population , Lowest prices , Highest prices ) , in the top up left there is a drop list :
+*Profile : 
+1)	He can change his information ( first name , last name , phone number (verification required ) , email (verification required ) , default city , default language ) .
+2)	Upload photo for his cars .
+*Home ( he can access to the home page )
+* Orders ( He can access to his orders)
+*Notification ( Application messages)
+*Help And Support ( Send message to the adminstrators)
+*About ( About the application)
+*Logout
 
+In the top there is search bar , in the middle there was car service companies , he choose one of them then he enter what he want ( Body Wash , Interior Cleaning , Engine Detailing , Super Wash , .. this is depend on the company menu ) , he pressed confirm the order , New page comes out that include location GPS and asks Ahmad about permission to access  to his location , after he give the app the permission he just press confirm order and wait for the car to come to his location , the receipt was sent to his email address .
